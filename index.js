@@ -197,6 +197,7 @@ const test = (module.exports = {
     }
     console.log("\n----------AFTER----------\n");
     test.paint(matrix);
+    console.log("\n");
   },
 });
 test.readMatrix();
