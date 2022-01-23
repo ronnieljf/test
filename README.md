@@ -8,7 +8,7 @@ Leyenda, cuando se ejecute la aplicacion, los posibles valores de las celdas de 
 C (Cropped) = Pared.
 L (Lamp) = Lampara/Bombillo.
 I (Illuminated) = Celda iluminada por un bombillo.
-* (Libre) = Celda que no es una pared, aun no esta iluminada y no tiene un bombillo.
+* (Free) = Celda que no es una pared, aun no esta iluminada y no tiene un bombillo.
 ```
 
 El archivo matrix.txt es el que deben modificar para cambiar la matriz y hacer pruebas con diferentes matrices.
